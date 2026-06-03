@@ -10,5 +10,17 @@
     "year": "2026",
     "semester": "1",
     "grade": "A+"
+  },
+  {
+    "course_name": "세계경제의이해",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A0"
+  },
+  {
+    "course_name": "AI수학",
+    "year": "2026",
+    "semester": "1",
+    "grade": "A+"
   }
 ]
